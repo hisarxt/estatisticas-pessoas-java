@@ -5,7 +5,7 @@
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``Java ``
+- ``Java 21``
 - ``Eclipse IDE``
 - ``Java (com métodos getters e setters)``
 - ``Programação orientada a objetos (POO)``
